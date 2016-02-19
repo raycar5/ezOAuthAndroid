@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ezOAuth.iml" filepath="$PROJECT_DIR$/ezOAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezoauth/ezoauth.iml" filepath="$PROJECT_DIR$/ezoauth/ezoauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezoauthtest/ezoauthtest.iml" filepath="$PROJECT_DIR$/ezoauthtest/ezoauthtest.iml" />
+    </modules>
+  </component>
+</project>
